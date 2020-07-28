@@ -1,4 +1,4 @@
-module github.com/ewilde/go-kibana
+module github.com/slentzen-auth0/go-kibana
 
 go 1.12
 
@@ -6,7 +6,7 @@ require (
 	github.com/Nvveen/Gotty v0.0.0-20120604004816-cd527374f1e5 // indirect
 	github.com/cenkalti/backoff v2.1.1+incompatible // indirect
 	github.com/elazarl/goproxy v0.0.0-20191011121108-aa519ddbe484 // indirect
-	github.com/ewilde/go-kibana v0.0.0-20191105221505-402b9a2105e2
+	github.com/slenten-auth0/go-kibana v0.0.0-20191105221505-402b9a2105e2
 	github.com/fsouza/go-dockerclient v1.4.1 // indirect
 	github.com/google/go-querystring v1.0.0
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
